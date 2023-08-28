@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h-font{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.p-font{
+    font-family: 'Montserrat', sans-serif;
+}
